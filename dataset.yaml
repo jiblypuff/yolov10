@@ -1,0 +1,7 @@
+# dataset.yaml
+train: ../../blimp_data/dataset/train/images  # Update this path
+val: ../../blimp_data/dataset/val/images      # Update this path
+
+nc: 2  # Number of classes
+names: ['Orange_frame', 'Yellow_frame']  # Class names
+
